@@ -1,0 +1,1 @@
+poll scm configured via jenkins
